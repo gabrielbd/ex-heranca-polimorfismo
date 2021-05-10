@@ -1,0 +1,16 @@
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net5.0\ExHerancaPolimorfismo.exe
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net5.0\ExHerancaPolimorfismo.deps.json
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net5.0\ExHerancaPolimorfismo.runtimeconfig.json
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net5.0\ExHerancaPolimorfismo.runtimeconfig.dev.json
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net5.0\ExHerancaPolimorfismo.dll
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net5.0\ref\ExHerancaPolimorfismo.dll
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net5.0\ExHerancaPolimorfismo.pdb
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net5.0\ExHerancaPolimorfismo.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net5.0\ExHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net5.0\ExHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net5.0\ExHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net5.0\ExHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net5.0\ExHerancaPolimorfismo.dll
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net5.0\ref\ExHerancaPolimorfismo.dll
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net5.0\ExHerancaPolimorfismo.pdb
+C:\Users\Marcelo\source\repos\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net5.0\ExHerancaPolimorfismo.genruntimeconfig.cache
